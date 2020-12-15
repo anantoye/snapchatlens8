@@ -1,0 +1,1068 @@
+{
+    "lens_id": "",
+    "document_id": "el07DPPTjIsK9d-leTVb",
+    "original_document_id": "el07DPPTjIsK9d-leTVb",
+    "version": "26",
+    "lastChanged": "1604642215215",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "AVKARAN"
+                    ],
+                    [
+                        "AmaticSC"
+                    ],
+                    [
+                        "Andhyta (DEMO)"
+                    ],
+                    [
+                        "Andhyta (DEMO) 2"
+                    ],
+                    [
+                        "Arabella"
+                    ],
+                    [
+                        "Caveat"
+                    ],
+                    [
+                        "Cutive Mono"
+                    ],
+                    [
+                        "DancingScript"
+                    ],
+                    [
+                        "DobkinScript"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Indie Flower"
+                    ],
+                    [
+                        "Libre Baskerville"
+                    ],
+                    [
+                        "Merriweather"
+                    ],
+                    [
+                        "Montez-Regular"
+                    ],
+                    [
+                        "Pacifico"
+                    ],
+                    [
+                        "VT323"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f65fc74a088c52d738c708f7e98b0b36",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "AVKARAN",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1604640725529074:9237",
+                    "name": "Files\/File8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1604640831332133:30005",
+                    "name": "Files\/File10.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1604640834603159:30755",
+                    "name": "Files\/File11.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1604640838071008:31539",
+                    "name": "Files\/File12.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1604640847236423:33382",
+                    "name": "Files\/File14.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1604640850400759:34149",
+                    "name": "Files\/File15.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1604640856753198:35305",
+                    "name": "Files\/File16.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1604640859685817:36046",
+                    "name": "Files\/File17.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1604640863598656:36920",
+                    "name": "Files\/File18.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1604640866752251:37679",
+                    "name": "Files\/File19.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1604641370703339:121759",
+                    "name": "Files\/File20.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1604641371043823:122069",
+                    "name": "Files\/File21.otf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1604641371529479:122528",
+                    "name": "Files\/File22.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1604641488667521:138038",
+                    "name": "Files\/File23.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1604641489000317:138344",
+                    "name": "Files\/File24.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1604640689671691:4061",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1604640762940159:14733",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1604640689363876:3835",
+                "4": "1604640689480071:3909",
+                "5": "1604640689671394:4060",
+                "6": "1604640762817629:14585",
+                "7": "1604640762939194:14732"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.ttf"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.ttf"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.ttf"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.ttf"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.ttf"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.ttf"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.ttf"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.ttf"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.ttf"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.ttf"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.otf"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.ttf"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.ttf"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.ttf"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "AVKARAN.png"
+                    },
+                    {
+                        "k": "969",
+                        "v": "AmaticSC.ttf"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Caveat.ttf"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Cutive Mono.ttf"
+                    },
+                    {
+                        "k": "973",
+                        "v": "DancingScript.ttf"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Indie Flower.ttf"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Libre Baskerville.ttf"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Merriweather.ttf"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Pacifico.ttf"
+                    },
+                    {
+                        "k": "978",
+                        "v": "VT323.ttf"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Andhyta (DEMO).ttf"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Andhyta (DEMO) 2.otf"
+                    },
+                    {
+                        "k": "981",
+                        "v": "DobkinScript.ttf"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Montez-Regular.ttf"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Arabella.ttf"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "e22232a1aa411266651577c1a88a4147"
+                    },
+                    {
+                        "k": "969",
+                        "v": "c4c985708dbf7b64111359a8abb2292d"
+                    },
+                    {
+                        "k": "970",
+                        "v": "21e34be24e1dcf90700db552fd3d17bf"
+                    },
+                    {
+                        "k": "971",
+                        "v": "fa1a2b3dccd133349ebedc12bafa9a8e"
+                    },
+                    {
+                        "k": "972",
+                        "v": "fa1a2b3dccd133349ebedc12bafa9a8e"
+                    },
+                    {
+                        "k": "973",
+                        "v": "78132c6450403faefc3f440b2bb3b24a"
+                    },
+                    {
+                        "k": "974",
+                        "v": "cbd50882df82be5fce046e52b302e316"
+                    },
+                    {
+                        "k": "975",
+                        "v": "27b9efe7ae34478c82311efb90011607"
+                    },
+                    {
+                        "k": "976",
+                        "v": "f96a44b40f99ae4b63f275f1142f7c98"
+                    },
+                    {
+                        "k": "977",
+                        "v": "324944d6dae53ea48a648b1d44ec78c3"
+                    },
+                    {
+                        "k": "978",
+                        "v": "d55abc3c7d1a4719dea9fa15ccec203f"
+                    },
+                    {
+                        "k": "979",
+                        "v": "18a7b6785bda9de190706c287bba4d9f"
+                    },
+                    {
+                        "k": "980",
+                        "v": "4e31bfd160c726a5807748a4fc661b2c"
+                    },
+                    {
+                        "k": "981",
+                        "v": "3df30335c2cf999cf4b57d90e85a9702"
+                    },
+                    {
+                        "k": "982",
+                        "v": "5093962aed14fbc724b43b7c6e1c2f6b"
+                    },
+                    {
+                        "k": "983",
+                        "v": "2e53190527bdd01ed72e812ba5d53c87"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-11-06T11:14:49",
+                        "name": "Public",
+                        "hash": "ff825bc45382c1cad54e63cfa5081b10",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "AmaticSC.ttf",
+                                "hash": "c4c985708dbf7b64111359a8abb2292d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-06-01T11:56:32",
+                                "name": "Andhyta (DEMO) 2.otf",
+                                "hash": "4e31bfd160c726a5807748a4fc661b2c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-06-01T11:56:42",
+                                "name": "Andhyta (DEMO).ttf",
+                                "hash": "18a7b6785bda9de190706c287bba4d9f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2003-08-27T09:26:06",
+                                "name": "Arabella.ttf",
+                                "hash": "2e53190527bdd01ed72e812ba5d53c87",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-11-06T11:00:44",
+                                "name": "AVKARAN.png",
+                                "hash": "e22232a1aa411266651577c1a88a4147",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "Caveat.ttf",
+                                "hash": "21e34be24e1dcf90700db552fd3d17bf",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "Cutive Mono.ttf",
+                                "hash": "fa1a2b3dccd133349ebedc12bafa9a8e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "DancingScript.ttf",
+                                "hash": "78132c6450403faefc3f440b2bb3b24a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2003-08-30T07:31:22",
+                                "name": "DobkinScript.ttf",
+                                "hash": "3df30335c2cf999cf4b57d90e85a9702",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:54",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:54",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "Indie Flower.ttf",
+                                "hash": "cbd50882df82be5fce046e52b302e316",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "Libre Baskerville.ttf",
+                                "hash": "27b9efe7ae34478c82311efb90011607",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "Merriweather.ttf",
+                                "hash": "f96a44b40f99ae4b63f275f1142f7c98",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2012-11-20T07:42:58",
+                                "name": "Montez-Regular.ttf",
+                                "hash": "5093962aed14fbc724b43b7c6e1c2f6b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "Pacifico.ttf",
+                                "hash": "324944d6dae53ea48a648b1d44ec78c3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-10-11T22:58:56",
+                                "name": "VT323.ttf",
+                                "hash": "d55abc3c7d1a4719dea9fa15ccec203f",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "AVKARAN",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1604640725529074:9237",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "968",
+                        "source": "C:\/Users\/anant\/Pictures\/AVKARAN.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AmaticSC",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1604640831332133:30005",
+                        "fileId": "10",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/AmaticSC-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Caveat",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1604640834603159:30755",
+                        "fileId": "11",
+                        "originalId": "18446744073709551615",
+                        "publicId": "970",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/Caveat-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Cutive Mono",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1604640838071008:31539",
+                        "fileId": "12",
+                        "originalId": "18446744073709551615",
+                        "publicId": "971",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/CutiveMono-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "DancingScript",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1604640847236423:33382",
+                        "fileId": "14",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/DancingScript-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Indie Flower",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1604640850400759:34149",
+                        "fileId": "15",
+                        "originalId": "18446744073709551615",
+                        "publicId": "974",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/IndieFlower.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Libre Baskerville",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1604640856753198:35305",
+                        "fileId": "16",
+                        "originalId": "18446744073709551615",
+                        "publicId": "975",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/LibreBaskerville-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Merriweather",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1604640859685817:36046",
+                        "fileId": "17",
+                        "originalId": "18446744073709551615",
+                        "publicId": "976",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/Merriweather-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Pacifico",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1604640863598656:36920",
+                        "fileId": "18",
+                        "originalId": "18446744073709551615",
+                        "publicId": "977",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/Pacifico-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "VT323",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1604640866752251:37679",
+                        "fileId": "19",
+                        "originalId": "18446744073709551615",
+                        "publicId": "978",
+                        "source": "D:\/Program Files\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Fonts\/VT323-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Andhyta (DEMO)",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1604641370703339:121759",
+                        "fileId": "20",
+                        "originalId": "18446744073709551615",
+                        "publicId": "979",
+                        "source": "C:\/Users\/anant\/Downloads\/Andhyta (DEMO).ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Andhyta (DEMO) 2",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1604641371043823:122069",
+                        "fileId": "21",
+                        "originalId": "18446744073709551615",
+                        "publicId": "980",
+                        "source": "C:\/Users\/anant\/Downloads\/Andhyta (DEMO).otf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "DobkinScript",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1604641371529479:122528",
+                        "fileId": "22",
+                        "originalId": "18446744073709551615",
+                        "publicId": "981",
+                        "source": "C:\/Users\/anant\/Downloads\/DobkinScript.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Montez-Regular",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1604641488667521:138038",
+                        "fileId": "23",
+                        "originalId": "18446744073709551615",
+                        "publicId": "982",
+                        "source": "C:\/Users\/anant\/Downloads\/Montez-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Arabella",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1604641489000317:138344",
+                        "fileId": "24",
+                        "originalId": "18446744073709551615",
+                        "publicId": "983",
+                        "source": "C:\/Users\/anant\/Downloads\/Arabella.ttf",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
